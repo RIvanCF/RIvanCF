@@ -26,3 +26,10 @@
 [![Twitter: TesMov_1994](https://img.shields.io/twitter/follow/TesMov_1994?style=social)](https://www.twitter.com/TesMov_1994)
 [![GitHub: RIvanCF](https://img.shields.io/github/followers/RIvanCF?style=social)](https://github.com/RIvanCF)
 [![Linkedin: Rodrigo Ivan](https://img.shields.io/badge/-RodrigoIvan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/rodrigo-iv%C3%A1n-cruz-flores-497792240/)](https://www.linkedin.com/in/rodrigo-iv%C3%A1n-cruz-flores-497792240/)
+
+## My Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RIvanCF&theme=radical&hide_border=true&locale=es)](https://git.io/streak-stats)
+
+[![RIvanCF's GitHub stats](https://github-readme-stats.vercel.app/api?username=RIvanCF&show_icons=true&theme=radical&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RIvanCF&langs_count=8&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
