@@ -9,7 +9,7 @@
 <p><em>💻 Self taught learner</em></p>
 <p><em>🎮I like board games and videogames</em></p>
 
-## Skills
+## Skills 
 <p aling="left"><a>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>
@@ -22,7 +22,7 @@
 </p></a>
 
 ## Social
-[![Instagram: rodrigo_ivan1994](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigo_ivan1994/)
+[![Instagram: rodrigo_ivan1994](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/un_tal_ivan1994/)
 [![Twitter: TesMov_1994](https://img.shields.io/twitter/follow/TesMov_1994?style=social)](https://www.twitter.com/TesMov_1994)
 [![GitHub: RIvanCF](https://img.shields.io/github/followers/RIvanCF?style=social)](https://github.com/RIvanCF)
 [![Linkedin: Rodrigo Ivan](https://img.shields.io/badge/-RodrigoIvan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/rodrigo-iv%C3%A1n-cruz-flores-497792240/)](https://www.linkedin.com/in/rodrigo-iv%C3%A1n-cruz-flores-497792240/)
