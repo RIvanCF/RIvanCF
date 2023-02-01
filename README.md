@@ -42,7 +42,7 @@
 
 <div align="center">
   <a href"https://github.com/RIvanCF">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIvanCF&langs_count=8&hide_border=true&locale=es&theme=radical">
+    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIvanCF&langs_count=8&hide_border=true&locale=es&theme=radical">
  </a>
 </div>
 
