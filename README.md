@@ -32,9 +32,9 @@
 <div align ="center">
  
   <a href="https://github.com/RIvanCF">
-    <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=RIvanCF&theme=radical&hide_border=true&locale=es">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RIvanCF&show_icons=true&theme=radical&hide_border=true&locale=es">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIvanCF&langs_count=8&hide_border=true&locale=es&theme=radical">
+    <img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=RIvanCF&theme=radical&hide_border=true&locale=es">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=RIvanCF&show_icons=true&theme=radical&hide_border=true&locale=es">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIvanCF&langs_count=8&hide_border=true&locale=es&theme=radical">
   </a>
   
 </div>
