@@ -30,10 +30,12 @@
 ## My Stats
 
 <div align ="center">
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RIvanCF&theme=radical&hide_border=true&locale=es)](https://git.io/streak-stats)
-[![RIvanCF's GitHub stats](https://github-readme-stats.vercel.app/api?username=RIvanCF&show_icons=true&theme=radical&hide_border=true&locale=es)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RIvanCF&langs_count=8&hide_border=true&locale=es&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ 
+  <a href="https://github.com/RIvanCF">
+    <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=RIvanCF&theme=radical&hide_border=true&locale=es">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RIvanCF&show_icons=true&theme=radical&hide_border=true&locale=es">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIvanCF&langs_count=8&hide_border=true&locale=es&theme=radical">
+  </a>
   
 </div>
 
